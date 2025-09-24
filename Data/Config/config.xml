@@ -2,15 +2,15 @@
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no" regexBackward4PowerUser="no" bookmarkLine="no" purge="no" />
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\rogie\Desktop\Odisee\Odisee-IIP\Downloads\ConsoleHalloWereld\Program.cs" />
+        <File filename="C:\Users\ysfda\Desktop\Downloads\ConsoleHalloWereld\Program.cs" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
         <ProjectPanel id="1" workSpaceFile="" />
         <ProjectPanel id="2" workSpaceFile="" />
     </ProjectPanels>
-    <FileBrowser latestSelectedItem="C:\Users\rogie\Desktop\Odisee\Odisee-IIP\leeromgeving\boilerplate\IIP1.01.Basis\ConsoleHalloWereld\Program.cs">
-        <root foldername="C:\Users\rogie\Desktop\Odisee\Odisee-IIP\leeromgeving\boilerplate" />
+    <FileBrowser latestSelectedItem="C:\Users\ysfda\Desktop\leeromgeving\boilerplate\IIP1.01.Basis\ConsoleHalloWereld\Program.cs">
+        <root foldername="C:\Users\ysfda\Desktop\leeromgeving\boilerplate" />
     </FileBrowser>
     <ColumnEditor choice="number">
         <text content="" />
