@@ -9,8 +9,8 @@
         <ProjectPanel id="1" workSpaceFile="" />
         <ProjectPanel id="2" workSpaceFile="" />
     </ProjectPanels>
-    <FileBrowser latestSelectedItem="C:\Users\ysfda\Desktop\leeromgeving\boilerplate\IIP1.01.Basis\ConsoleHalloWereld\Program.cs">
-        <root foldername="C:\Users\ysfda\Desktop\leeromgeving\boilerplate" />
+    <FileBrowser latestSelectedItem="C:\Users\ysfda\Desktop\introductie in prg\IIP-YoussefDaoudi-2526\readme.md">
+        <root foldername="C:\Users\ysfda\Desktop\introductie in prg\IIP-YoussefDaoudi-2526" />
     </FileBrowser>
     <ColumnEditor choice="number">
         <text content="" />
@@ -23,7 +23,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" backspaceUnindent="no" />
-        <GUIConfig name="AppPosition" x="528" y="343" width="1822" height="1109" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="528" y="343" width="1822" height="1102" isMaximized="yes" />
         <GUIConfig name="FindWindowPosition" left="0" top="0" right="0" bottom="0" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426" autoUpdateMode="0">yes</GUIConfig>
