@@ -14,14 +14,14 @@ namespace ConsoleNaamVanDeOefening
 		 int leeftijd = Convert.ToInt32(antwoord);
 
 		 
-		 Console.Write("Geef je lievelingsletter: "); 
-		 string lievelingsletter = Console.ReadLine();
+		 
+		Console.Write("Geef je lievelingsletter: ");
+		char lievelingsletter = Console.ReadKey().KeyChar;
 		 
 		Console.WriteLine("");
 		Console.WriteLine($"Hallo {voornaam}. Jij bent {leeftijd}  jaar."); 
 		Console.WriteLine($"Volgend jaar ben je {(leeftijd + 1)}");
 		Console.WriteLine($"Jouw lievelingsletter is: {lievelingsletter}"); 
-		
 		
       }
    }
