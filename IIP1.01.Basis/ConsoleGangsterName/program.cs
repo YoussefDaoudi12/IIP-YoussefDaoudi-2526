@@ -7,15 +7,12 @@ namespace ConsoleNaamVanDeOefening
       static void Main(string[] args)
       {
         
-		string header = @"
-		**********************
-		│GANGSTA NAME BUILDER│
-		**********************";
+		Console.WriteLine(@"
+**********************
+│GANGSTA NAME BUILDER│
+**********************");
 		
-		
-		Console.WriteLine(header);
-		Console.WriteLine();
-		Console.WriteLine();
+		Console.WriteLine(" ");
 		
 		Console.Write("Give the first name of any Disney character: ");
 		string gangsterName = Console.ReadLine();
