@@ -7,7 +7,7 @@ namespace ConsoleContactCard
       static void Main(string[] args)
       {
           string naam = "Bobby Peru";
-          bool gehuwd = true;
+          bool gehuwd = false;
           string telefoon = "0486/33.22.19";
           int leeftijd = 25;
           decimal salaris = 2500.00m; // decimal voor geld
